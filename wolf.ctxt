@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=wolf
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ flyer\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=upAndDown
+comment1.target=wolf(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ enemyhitWalls()
+comment4.params=
+comment4.target=void\ WolfhitRaccoon()
+comment5.params=
+comment5.target=void\ moveAround()
+comment6.params=
+comment6.target=void\ checkVisibility()
+comment7.params=
+comment7.target=boolean\ isVisible()
+comment8.params=seconds
+comment8.target=void\ hideForSeconds(int)
+comment9.params=isVisible
+comment9.target=void\ setVisible(boolean)
+numComments=10
