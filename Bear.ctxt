@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bear
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Snake\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=leftAndRight
+comment1.target=Bear(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ enemyhitWalls()
+comment4.params=
+comment4.target=void\ BearhitRaccoon()
+comment5.params=
+comment5.target=void\ moveAround()
+numComments=6
